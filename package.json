@@ -32,7 +32,7 @@
   "homepage": "https://github.com/praneethkumar900/flickmart#readme",
   "dependencies": {
     "bcrypt": "^3.0.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "mongodb": "^3.2.2",
     "morgan": "^1.9.1"
